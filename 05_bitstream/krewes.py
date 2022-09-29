@@ -2,7 +2,20 @@
 # SoftDev
 # K05 - bitstream
 # 2022-09-29
-# time spent:
+# time spent: 0.5 hr
+
+'''
+DISCO:
+- split() separated by a delimiter
+- use open("filename") to open a file
+- fstrings make life easy
+- strip() removes trailing whitespace
+- print(*list) removes the list syntax
+
+QCC
+- do we have access to the actual krewes.txt?
+- how efficient is this for larger file sizes?
+'''
 
 import random
 
