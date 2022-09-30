@@ -1,3 +1,19 @@
+'''
+AABattery: Aaron Gershkovich, Anthony Sun
+SoftDev pd02
+k06 - py-csv
+2022-09-30
+time spent: 0.8 hr
+'''
+
+'''
+DISCO:
+*
+
+QCC:
+*
+'''
+
 import random
 
 def readfile(f):
