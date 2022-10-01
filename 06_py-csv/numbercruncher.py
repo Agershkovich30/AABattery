@@ -8,9 +8,17 @@ time spent: 0.8 hr
 
 '''
 DISCO:
+-Tuples are like lists, but are not modifiable
+-rindex() is the last index of a certain substring in a substring
+-with open(f,"r") as a: opens the file given, then changes reference to as
+- occupation[:comma_index] splits to a certian index
+- occupation[comma_index+1:] splits from a certian index
 *
 
 QCC:
+- Will this method hold up for larger data files?
+- Are there any other significant differences between .csv files and .txt files?
+- Why is dictionary the prefered method here?
 *
 '''
 
